@@ -31,7 +31,8 @@ function App() {
       "Desenvolvendo novas habilidades e aprendendo sempre 📈 #CrescimentoPessoal",
       "A música tem o poder de transformar o dia 🎶 #Música",
       "Celebrando pequenas vitórias diárias 🥳 #Gratidão",
-      "Vamos minha painzuida!! #Gopain"
+      "Vamos minha painzuida!! #Gopain",
+      "Vivendo o melhor na minha pior fase #Forças"
     ]
 
     const randomTweet = randomTweets[Math.floor(Math.random() * randomTweets.length)]
