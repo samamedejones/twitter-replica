@@ -1,8 +1,20 @@
-# React + Vite
+# Drinks Menu
+![frutas](https://github.com/user-attachments/assets/edad9b46-d7c3-4ff6-afe1-2fd5bba1a2ee)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-Currently, two official plugins are available:
+In this project I created a very colorful drinks menu with transition animations between one drink and another.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Learnings
+
+Here I learned extra CSS techniques, such as creating animations with keyframes and also in the javascript part I had to have logical thinking so that I could move between the menu options without breaking the code
+</br>
+link: https://samamedejones.github.io/drinks-menu/
+
+
+## Technologies used
+
+**Front-end:** HTML, CSS, JavaScript
+
+
+![image](https://github.com/user-attachments/assets/3ff9cab9-ceed-4102-b805-3928e56822c3) ![image](https://github.com/user-attachments/assets/b68387fd-bd9f-4197-82da-118cf161f74d) ![image](https://github.com/user-attachments/assets/be60b360-351b-47d4-b08b-edb7b25019b7)
+
