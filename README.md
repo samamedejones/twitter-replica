@@ -8,7 +8,7 @@ In this project I created a replica of Twitter darkmode with a simulation of aut
 
 In this project I learned how to use Tailwind to style the website and React to do declarative and more performative programming, especially React hooks, with "useEffect" and "useState" being more specific. In this project I also evolved a lot in the programming logic, having to think about how exactly the part of creating random and interval tweets would work.
 </br>
-link: 
+link: https://samamedejones.github.io/twitter-replica/
 
 
 ## Technologies used
