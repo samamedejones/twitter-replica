@@ -1,5 +1,5 @@
 # Twitter Replica with Tailwind
-![frutas](https://github.com/user-attachments/assets/edad9b46-d7c3-4ff6-afe1-2fd5bba1a2ee)
+![twitter](https://github.com/user-attachments/assets/4b1bbecf-d460-4147-a0cc-60082bcf3fd1)
 
 
 In this project I created a replica of Twitter darkmode with a simulation of automatic tweets saved in an array in string format, it was very similar and also responsive for anyone accessing it on mobile.
@@ -8,7 +8,7 @@ In this project I created a replica of Twitter darkmode with a simulation of aut
 
 In this project I learned how to use Tailwind to style the website and React to do declarative and more performative programming, especially React hooks, with "useEffect" and "useState" being more specific. In this project I also evolved a lot in the programming logic, having to think about how exactly the part of creating random and interval tweets would work.
 </br>
-link: https://samamedejones.github.io/drinks-menu/
+link: 
 
 
 ## Technologies used
