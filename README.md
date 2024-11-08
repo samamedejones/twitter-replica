@@ -1,12 +1,12 @@
-# Twitter Replica
+# Twitter Replica with Tailwind
 ![frutas](https://github.com/user-attachments/assets/edad9b46-d7c3-4ff6-afe1-2fd5bba1a2ee)
 
 
-In this project I created a very colorful drinks menu with transition animations between one drink and another.
+In this project I created a replica of Twitter darkmode with a simulation of automatic tweets saved in an array in string format, it was very similar and also responsive for anyone accessing it on mobile.
 
 ## Learnings
 
-Here I learned extra CSS techniques, such as creating animations with keyframes and also in the javascript part I had to have logical thinking so that I could move between the menu options without breaking the code
+In this project I learned how to use Tailwind to style the website and React to do declarative and more performative programming, especially React hooks, with "useEffect" and "useState" being more specific. In this project I also evolved a lot in the programming logic, having to think about how exactly the part of creating random and interval tweets would work.
 </br>
 link: https://samamedejones.github.io/drinks-menu/
 
