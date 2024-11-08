@@ -13,8 +13,10 @@ link: https://samamedejones.github.io/drinks-menu/
 
 ## Technologies used
 
-**Front-end:** HTML, CSS, JavaScript
+**Front-end:** HTML, CSS, JavaScript, React and Tailwind
 
 
-![image](https://github.com/user-attachments/assets/3ff9cab9-ceed-4102-b805-3928e56822c3) ![image](https://github.com/user-attachments/assets/b68387fd-bd9f-4197-82da-118cf161f74d) ![image](https://github.com/user-attachments/assets/be60b360-351b-47d4-b08b-edb7b25019b7)
+![image](https://github.com/user-attachments/assets/3ff9cab9-ceed-4102-b805-3928e56822c3) ![image](https://github.com/user-attachments/assets/b68387fd-bd9f-4197-82da-118cf161f74d) ![image](https://github.com/user-attachments/assets/be60b360-351b-47d4-b08b-edb7b25019b7)  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"  height="92" alt="react logo"/> <img width="10" />  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="100" alt="tailwindcss logo" />
+
+  
 
